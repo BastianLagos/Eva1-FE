@@ -1,0 +1,73 @@
+html, body, div, input, label, table, img, p{
+    margin: 0;
+    padding: 0;
+    font-family: Calibri, Arial;
+}
+
+body{
+    background-color: #DAD427;
+}
+
+.caja1{
+    float: left;
+    margin-left: 25px;
+    margin-top: 40px;
+    background-color: #fff;
+}
+
+#div2 p{
+    text-align: center;
+    padding: 5px;
+}
+
+#div2 img{
+    padding-left: 50px;
+}
+
+#div2 label{
+    padding-left: 180px;
+}
+
+#div2 input{
+    float: right;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+#div3 p{
+    text-align: center;
+    padding: 5px;
+}
+
+#div3 img{
+    padding-left: 70px;
+}
+
+#div3 label{
+    padding-left: 230px;
+}
+
+#div3 input{
+    float: right;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+#div4 p{
+    text-align: center;
+    padding: 5px;
+}
+
+#div4 img{
+    padding-left: 35px;
+}
+
+#div4 label{
+    padding-left: 160px;
+}
+
+#div4 input{
+    float: right;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
